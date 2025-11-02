@@ -1,6 +1,6 @@
 # Portfólio — Leandro Neves
 <h1 align="center">Oi 👋, Eu sou Leandro Neves</h1>
-<h3 align="center">Um engenheiro mecânico com foco em resultado</h3>
+<h3 align="center">Um engenheiro mecânico com foco em projetos mecânicos e de automação voltados para a fabricação mecânica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-leandroneves&label=Profile%20views&color=0e75b6&style=flat" alt="eng-leandroneves" /> </p>
 
